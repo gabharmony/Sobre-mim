@@ -1,0 +1,168 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#backInicio{
+    background: url("../img/fundo.png") no-repeat;
+    background-size: 100%;
+}
+
+.button-inicio{
+    padding-top: 39vh;
+}
+
+.button-future{
+    color: #fff;
+    font-size: 70px;
+}
+
+.nav.justify-content-between{
+    font-size: 27px;
+    border-bottom: 1px solid darkgrey;
+}
+
+.navbar{
+    border-bottom: 1px solid darkgrey;
+    color: #0d6efd;
+}
+
+.navbar-brand{
+    display: flex;
+    align-items: center;
+}
+
+.btn-mensagem{
+    margin-top: 20%;
+    text-align: center;
+}
+
+
+.titulo-comer{
+    font-size: 26px;
+    text-align: center;
+}
+
+#navbarReceita{
+    width: 100%;
+    position: fixed;
+    top: 0;
+    z-index: 4;
+}
+
+.title-receita{
+    margin-top: 80px;
+}
+
+.content-receitas{
+    margin-bottom: 10px;
+}
+
+#imgAccordionUm{
+    width: 300px;
+    height: 200px;
+}
+
+#imgAccordionDois{
+    width: 300px;
+    height: 200px;
+}
+
+#imgAccordionTres{
+    width: 300px;
+    height: 195px;
+}
+
+#imgAccordionQuatro{
+    width: 300px;
+    height: 199px;
+}
+
+#imgAccordionCinco{
+    width: 319px;
+    height: 195px;
+}
+
+#imgAccordionSeis{
+    width: 325px;
+    height: 195px;
+}
+
+#imgFricasse{
+    width: 924px;
+    height: 519px;
+}
+
+#imgOvoMexido{
+    width: 924px;
+    height: 519px;
+}
+
+#imgPudimPao{
+    width: 924px;
+    height: 518px;
+}
+
+#imgSalmaoForno{
+    width: 924px;
+    height: 520px;
+}
+
+#imgCuscuz{
+    width: 924px;
+    height: 615px;
+}
+
+.content-entrevista{
+    margin-top: 160px;
+}
+
+#cardTab{
+    justify-content: center;
+}
+
+.card-title{
+    text-align: center;
+}
+
+.tab-pane .card-text{
+    padding-left: 20px;
+}
+
+.title-momentos{
+    font-size: 26px;
+    margin-top: 15px;
+    text-align: center;
+}
+
+.momento{
+    text-align: center;
+}
+
+.momento .paragrafo-momento, .titulo-momento{
+    margin-top: 10px;
+    text-align: left;
+}
+
+.title-galeria{
+    margin-top: 10px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.galeria{
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.galeria .card{
+    margin-right: 8px;
+    margin-bottom: 8px;
+}
+
+.card-img-top{
+    height: 304px;
+}
+
